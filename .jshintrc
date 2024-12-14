@@ -1,4 +1,8 @@
 {
-    "node": true,
-    "esversion": 11
+  "esversion": 11,
+  "node": true,
+  "browser": true,
+  "unused": "nofunc",
+  "curly": true,
+  "sub": true
 }
